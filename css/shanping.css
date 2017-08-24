@@ -1,0 +1,18 @@
+.box{
+	width: 100%;
+	height: auto;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	background-color: skyblue;
+}
+.car{
+	width: 5.74rem;
+	height: 5.38rem;
+	background-color: pink;
+	margin: 0 auto;
+	margin-top: 1rem;
+}
